@@ -1,0 +1,13 @@
+En MySQL Query Browser:
+
+create database nombreDB;
+
+use nombreDB; 
+
+C:\java_installed\MySQL Server 5.6\bin>mysql -u root nombreDB < crearTabla.sql
+
+Antes de ejecutarlo mover el archivo config.xml a:
+
+C:\java_installed\MySQL Server 5.6\bin>echo %HOMEPATH%
+\Documents and Settings\maximiliano.contini
+
